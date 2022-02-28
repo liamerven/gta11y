@@ -1,0 +1,12 @@
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\GrandTheftAccessibility.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\GrandTheftAccessibility.pdb
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\NAudio.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\ScriptHookVDotNet3.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\NAudio.xml
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GTA11Y.csprojAssemblyReference.cache
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GTA11Y.csproj.CopyComplete
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GrandTheftAccessibility.dll
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GrandTheftAccessibility.pdb
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GTA11Y.csproj.CoreCompileInputs.cache

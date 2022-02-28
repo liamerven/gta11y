@@ -1,0 +1,8 @@
+C:\Users\Liam\source\repos\GTA\GTA\obj\Debug\GTA.csprojAssemblyReference.cache
+C:\Users\Liam\source\repos\GTA\GTA\bin\Debug\GTA.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\Debug\GTA.pdb
+C:\Users\Liam\source\repos\GTA\GTA\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Liam\source\repos\GTA\GTA\obj\Debug\GTA.csproj.CopyComplete
+C:\Users\Liam\source\repos\GTA\GTA\obj\Debug\GTA.dll
+C:\Users\Liam\source\repos\GTA\GTA\obj\Debug\GTA.pdb

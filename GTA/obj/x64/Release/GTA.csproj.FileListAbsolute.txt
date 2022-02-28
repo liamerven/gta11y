@@ -1,0 +1,11 @@
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GTA.csproj.CopyComplete
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GTA.csprojAssemblyReference.cache
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\ScriptHookVDotNet3.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\ScriptHookVDotNet3.xml
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\TolkDotNet.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\GrandTheftAccess.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\GrandTheftAccess.pdb
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GrandTheftAccess.dll
+C:\Users\Liam\source\repos\GTA\GTA\obj\x64\Release\GrandTheftAccess.pdb
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\NAudio.dll
+C:\Users\Liam\source\repos\GTA\GTA\bin\x64\Release\NAudio.xml
